@@ -1,2 +1,2 @@
 # ECE4300_ExecuteStage
-Execute stage for MIPS ISA
+Memory/Writeback and Execute stage for MIPS ISA
